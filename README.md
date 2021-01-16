@@ -2,8 +2,8 @@
 
                                         
 
-![alt text](Readme_assets/main.png)
-![alt text](Readme_assets/cardDescript.png)
+![alt text](https://github.com/Chet314/pokemonsTestTask/raw/master/Readme_assets/main.png)
+![alt text](https://github.com/Chet314/pokemonsTestTask/raw/master/Readme_assets/cardDescript.png)
 
 
                                                      Description.
