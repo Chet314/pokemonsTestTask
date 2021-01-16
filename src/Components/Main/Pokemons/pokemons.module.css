@@ -1,0 +1,31 @@
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.main{
+    display: grid;
+    justify-items: center;
+    margin: 35px;
+    grid-template-columns: repeat(auto-fill, minmax(min(100px, 100%), 1fr));
+    grid-gap: 2rem;
+    width: 95%;
+}
+
+.pokemonProperty{
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    background-color: #eff1f0;
+}
+
+.pokemonProperty img{
+    width: 100%;
+}
+
+.pokemonProperty:hover{
+    transform: scale(1.05);
+    box-shadow: 10px 10px 3px 3px grey;
+ }

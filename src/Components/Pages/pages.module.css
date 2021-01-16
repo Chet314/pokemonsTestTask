@@ -1,0 +1,20 @@
+ .pages{
+    display: flex;
+    justify-content: center;
+    font-size: 16px; 
+}
+
+span{
+    padding: 5px;
+    cursor: pointer;
+}
+
+span:hover{
+   font-size: 20px;
+}
+
+.br{
+    font-size: 25px;
+    border: 1px solid white;
+    border-radius: 5px;
+}

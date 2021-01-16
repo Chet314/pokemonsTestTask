@@ -1,0 +1,95 @@
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid red;
+    background-color: #eff1f0;
+    width: 90%;
+    color: black;
+    border-radius: 20px;
+    position: absolute;
+    top: 150px;
+    left:70px;
+    z-index: 5;
+}
+
+.wrapper h1{
+    font-size: 50px;
+    margin-left: 130px;
+}
+
+.wrapper img {
+   max-width: 70%;
+    margin: 100px 30px;
+}
+
+.wrapper img:hover {
+    transform: scale(1.05);
+}
+.main{
+    margin: 100px 50px;
+    
+}
+.main p{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 1600px) {
+    .wrapper{
+      width: 85%;}
+}
+   
+@media only screen and (max-width: 1280px) {
+    .wrapper{
+      width: 80%;
+     }
+
+    .wrapper h1{
+        margin-left: 50px;
+    }
+
+    .wrapper img {
+        max-width: 70%;
+      margin: 20px 20px;
+  }
+      .main{
+        margin: 20px 50px;
+        
+    }
+  }
+   
+  @media only screen and (max-width: 960px) {
+    .wrapper{
+      width: 80%;
+    }
+    .wrapper h1{
+        margin-left: 50px;
+    }
+      .wrapper img {
+          max-width: 70%;
+        margin: 20px 20px;
+    }
+    .main{
+        margin: 20px 50px;
+        
+    }
+  }
+   
+  @media only screen and (max-width: 600px) {
+    .wrapper{
+      left: 30px;
+      width: 90%;
+    }
+    .wrapper h1{
+        margin-left: 50px;
+    }
+    .wrapper img {
+      width: 50%;
+      margin: 20px 20px;
+    }
+    .main{
+        margin: 20px 50px;
+        
+    }
+  }
