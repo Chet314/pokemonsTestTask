@@ -2,9 +2,11 @@
 
                                         
 <p align="center">
-  <img src="Readme_assests\main.png" width="350" title="img">
-  <img src="Readme_assests\cardDescript.png" width="350" alt="img">
+  <img src="Readme_assests\main.png" width="400" title="img">
+  <img src="Readme_assests\cardDescript.png" width="400" alt="img">
 </p>
+
+
                                                      Description.
     
     This work is test-task for position Junior React Developer in Blitz-Studio.ru.
@@ -24,6 +26,4 @@
         8. eslint
         9. babel
 
-    Progect setup:
-        npm install
-        npm start
+ 
