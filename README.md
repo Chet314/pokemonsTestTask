@@ -2,8 +2,8 @@
 
                                         
 
-![Readme_assets](main.png)
-![Readme_assets](cardDescript.png)
+![alt text](Readme_assets/main.png)
+![alt text](Readme_assets/cardDescript.png)
 
 
                                                      Description.
