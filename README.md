@@ -1,11 +1,10 @@
                                       Visualisation of pocemon's card from PokeAPI.
 
                                         
-
-![alt text](https://github.com/Chet314/pokemonsTestTask/raw/master/Readme_assets/main.png)
-![alt text](https://github.com/Chet314/pokemonsTestTask/raw/master/Readme_assets/cardDescript.png)
-
-
+<p align="center">
+  <img src="Readme_assets/main.png" width="350" title="img">
+  <img src="Readme_assets/cardDescript.png" width="350" alt="img">
+</p>
                                                      Description.
     
     This work is test-task for position Junior React Developer in Blitz-Studio.ru.

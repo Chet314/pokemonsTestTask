@@ -23,6 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 #
-.eslintcash
-debug.log
-yarn.lock
+/.eslintcash
+/debug.log
+/yarn.lock
