@@ -9,13 +9,13 @@
 
                                                      Description.
     
-    This work is test-task for position Junior React Developer in Blitz-Studio.ru.
+    This work is a test task for the position of Junior React Developer in Blitz-Studio.ru.
 
 
 
                                                      About the project.
 
-    In this project was used next librories:
+    In this project the following libraries were used:
         1. React
         2. Redux
         3. axios
@@ -26,4 +26,5 @@
         8. eslint
         9. babel
 
+    The project is available on https://chet314.github.io/pokemonsTestTask
  

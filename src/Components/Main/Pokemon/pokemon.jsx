@@ -10,12 +10,13 @@ const Pokemon = React.memo((props) => {
     let name = props.pokemon.name[0].toUpperCase() + props.pokemon.name.slice(1);
 
     return (
+        <NavLink to="/">
         <div className={style.wrapper} >
             <div>
                 <h1>{name}</h1>
             </div>
             <div>
-                <NavLink to="/"> <img src={props.pokemon.img || spitz} alt='pokemonImg' /></NavLink>
+                 <img src={props.pokemon.img || spitz} alt='pokemonImg' />
             </div>
             <div className={style.main} >
                 <p>#{props.pokemon.id}</p>
@@ -25,6 +26,7 @@ const Pokemon = React.memo((props) => {
                 <p>Weight: {props.pokemon.weight}</p>
             </div>
         </div>
+        </NavLink>
     );
 });
 
