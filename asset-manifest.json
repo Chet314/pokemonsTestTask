@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "//github.com/Chet314/pokemonsTestTask/static/css/main.5f1eef84.chunk.css",
-    "main.js": "//github.com/Chet314/pokemonsTestTask/static/js/main.fa239d83.chunk.js",
-    "main.js.map": "//github.com/Chet314/pokemonsTestTask/static/js/main.fa239d83.chunk.js.map",
-    "runtime-main.js": "//github.com/Chet314/pokemonsTestTask/static/js/runtime-main.c9a21d2d.js",
-    "runtime-main.js.map": "//github.com/Chet314/pokemonsTestTask/static/js/runtime-main.c9a21d2d.js.map",
-    "static/js/2.f9b97ea5.chunk.js": "//github.com/Chet314/pokemonsTestTask/static/js/2.f9b97ea5.chunk.js",
-    "static/js/2.f9b97ea5.chunk.js.map": "//github.com/Chet314/pokemonsTestTask/static/js/2.f9b97ea5.chunk.js.map",
-    "index.html": "//github.com/Chet314/pokemonsTestTask/index.html",
-    "static/css/main.5f1eef84.chunk.css.map": "//github.com/Chet314/pokemonsTestTask/static/css/main.5f1eef84.chunk.css.map",
-    "static/js/2.f9b97ea5.chunk.js.LICENSE.txt": "//github.com/Chet314/pokemonsTestTask/static/js/2.f9b97ea5.chunk.js.LICENSE.txt",
-    "static/media/pokeBall.0f4ce750.png": "//github.com/Chet314/pokemonsTestTask/static/media/pokeBall.0f4ce750.png",
-    "static/media/pokeapi.888baca4.png": "//github.com/Chet314/pokemonsTestTask/static/media/pokeapi.888baca4.png",
-    "static/media/preloaderImg.2b1fb524.gif": "//github.com/Chet314/pokemonsTestTask/static/media/preloaderImg.2b1fb524.gif",
-    "static/media/spitz.1f15689f.png": "//github.com/Chet314/pokemonsTestTask/static/media/spitz.1f15689f.png"
+    "main.css": "/Chet314/pokemonsTestTask/static/css/main.5f1eef84.chunk.css",
+    "main.js": "/Chet314/pokemonsTestTask/static/js/main.ccf97850.chunk.js",
+    "main.js.map": "/Chet314/pokemonsTestTask/static/js/main.ccf97850.chunk.js.map",
+    "runtime-main.js": "/Chet314/pokemonsTestTask/static/js/runtime-main.762ad587.js",
+    "runtime-main.js.map": "/Chet314/pokemonsTestTask/static/js/runtime-main.762ad587.js.map",
+    "static/js/2.f9b97ea5.chunk.js": "/Chet314/pokemonsTestTask/static/js/2.f9b97ea5.chunk.js",
+    "static/js/2.f9b97ea5.chunk.js.map": "/Chet314/pokemonsTestTask/static/js/2.f9b97ea5.chunk.js.map",
+    "index.html": "/Chet314/pokemonsTestTask/index.html",
+    "static/css/main.5f1eef84.chunk.css.map": "/Chet314/pokemonsTestTask/static/css/main.5f1eef84.chunk.css.map",
+    "static/js/2.f9b97ea5.chunk.js.LICENSE.txt": "/Chet314/pokemonsTestTask/static/js/2.f9b97ea5.chunk.js.LICENSE.txt",
+    "static/media/pokeBall.0f4ce750.png": "/Chet314/pokemonsTestTask/static/media/pokeBall.0f4ce750.png",
+    "static/media/pokeapi.888baca4.png": "/Chet314/pokemonsTestTask/static/media/pokeapi.888baca4.png",
+    "static/media/preloaderImg.2b1fb524.gif": "/Chet314/pokemonsTestTask/static/media/preloaderImg.2b1fb524.gif",
+    "static/media/spitz.1f15689f.png": "/Chet314/pokemonsTestTask/static/media/spitz.1f15689f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9a21d2d.js",
+    "static/js/runtime-main.762ad587.js",
     "static/js/2.f9b97ea5.chunk.js",
     "static/css/main.5f1eef84.chunk.css",
-    "static/js/main.fa239d83.chunk.js"
+    "static/js/main.ccf97850.chunk.js"
   ]
 }
