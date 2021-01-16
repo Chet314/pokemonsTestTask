@@ -2,8 +2,8 @@
 
                                         
 <p align="center">
-  <img src="Readme_assets/main.png" width="350" title="img">
-  <img src="Readme_assets/cardDescript.png" width="350" alt="img">
+  <img src="Readme_assests\main.png" width="350" title="img">
+  <img src="Readme_assests\cardDescript.png" width="350" alt="img">
 </p>
                                                      Description.
     
